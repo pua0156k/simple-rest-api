@@ -1,0 +1,5 @@
+ip: mysql_host
+userName: root
+password: 123456
+dbname: simpleRest
+port: 3306
