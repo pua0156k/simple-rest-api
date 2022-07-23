@@ -1,5 +1,5 @@
 # Installation
-## Create Bridge
+## Create bridge network
 ``` docker network create testnet ```
 ## Database
 ###
